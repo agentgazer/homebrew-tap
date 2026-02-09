@@ -1,8 +1,8 @@
 class Agentgazer < Formula
   desc "Local-first AI agent observability platform"
   homepage "https://github.com/agentgazer/agentgazer"
-  url "https://registry.npmjs.org/@agentgazer/cli/-/cli-0.3.4.tgz"
-  sha256 "6d2132a3206e98828f3e988f3e4379517827e20c512725804c9e70ea0de4e68b"
+  url "https://registry.npmjs.org/@agentgazer/cli/-/cli-0.3.5.tgz"
+  sha256 "fbe4bf323dae3319f42f59aca7f63ae7229e96119be787790f98d525ff3cdab3"
   license "Apache-2.0"
 
   depends_on "node@24"
