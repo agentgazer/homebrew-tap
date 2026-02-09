@@ -5,7 +5,7 @@ class Agentgazer < Formula
   sha256 "90fe9cf11d3b4f8d7a4a38cc60697af2c0844a1251cee9a88fe928b23a1c5e68"
   license "Apache-2.0"
 
-  depends_on "node@22"
+  depends_on "node@24"
 
   def install
     system "npm", "install", *std_npm_args
