@@ -1,7 +1,7 @@
 class Agentgazer < Formula
   desc "Local-first AI agent governance platform"
   homepage "https://github.com/agentgazer/agentgazer"
-  url "https://registry.npmjs.org/@agentgazer/cli/-/agentgazer-cli-0.6.0.tgz"
+  url "https://registry.npmjs.org/@agentgazer/cli/-/cli-0.6.0.tgz"
   sha256 "77bc25136b0ff14dae996d101cd783c66214f0a0fca7ec2c92958e26244929e2"
   license "AGPL-3.0"
 
